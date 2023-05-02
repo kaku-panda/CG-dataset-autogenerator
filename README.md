@@ -1,3 +1,4 @@
 ### 概要
 このレポジトリはCNN向け学習データセットをBlenderで作成するためのものです
-![スクリーンショット 2022-10-07 14 13 51](https://user-images.githubusercontent.com/127015900/235568588-f5a8966f-7ea5-4028-81e3-ac4b8c98dbd5.png)
+![0000000000](https://user-images.githubusercontent.com/127015900/235569601-6d9ee508-f47b-4b41-aa3b-e2d48dae56c7.png)
+![0000000003](https://user-images.githubusercontent.com/127015900/235569610-1fa7c97b-6ea5-4981-b794-13db4f9a4b89.png)
